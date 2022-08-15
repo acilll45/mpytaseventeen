@@ -957,12 +957,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://youtu.be/VLrcrWm5bLM'
+                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+6283146208804'
+                                    phoneNumber: '+6283838757324'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -997,12 +997,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://youtu.be/VLrcrWm5bLM'
+                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+6283146208804'
+                                    phoneNumber: '+6283838757324'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2757,7 +2757,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ┗━❁━┈━❁━┈━❁━┈━❁━┛
 
 
-P E N T A B O T V17 R E L E A S E`
+©ＡＣＩＬ ＢＯＴ
                 let message = await prepareWAMessageMedia({ image: fs.readFileSync('./FotoMenu/Gempy.jpg') }, { upload: hermanChnl.waUploadToServer })
                 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -2766,13 +2766,13 @@ P E N T A B O T V17 R E L E A S E`
                             hydratedContentText: anu,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: '❝𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐆𝐄𝐌𝐏𝐘❞',
-                                    url: 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw'
+                                    displayText: '❝𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐀𝐂𝐈𝐋❞',
+                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '❝𝐆𝐑𝐔𝐏 𝐖𝐀 𝐁𝐎𝐓❞',
-                                    url: 'https://chat.whatsapp.com/HyeTKTdGfjt8xWPQhT5wHy'
+                                    displayText: '❝𝐆𝐑𝐔𝐏 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐁𝐎𝐓❞',
+                                    url: 'https://t.me/pler_gaming'
                                 }
                             }, {
                                 quickReplyButton: {
