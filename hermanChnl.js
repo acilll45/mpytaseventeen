@@ -957,7 +957,7 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw'
+                                    url: 'https://youtu.be/VLrcrWm5bLM'
                                 }
                             }, {
                                 callButton: {
@@ -997,7 +997,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw'
+                                    url: 'https://youtu.be/VLrcrWm5bLM'
                                 }
                             }, {
                                 callButton: {
@@ -2757,7 +2757,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 ┗━❁━┈━❁━┈━❁━┈━❁━┛
 
 
-©ＡＣＩＬ ＢＯＴ
+「 赤 ACIL - BOT ⁩இ`
                 let message = await prepareWAMessageMedia({ image: fs.readFileSync('./FotoMenu/Gempy.jpg') }, { upload: hermanChnl.waUploadToServer })
                 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -2767,12 +2767,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: '❝𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐀𝐂𝐈𝐋❞',
-                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw
+                                    url: 'https://youtube.com/channel/UCl7_1sOBbXXYBTyuxj7l-Tw'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: '❝𝐆𝐑𝐔𝐏 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐁𝐎𝐓❞',
-                                    url: 'https://t.me/pler_gaming'
+                                    displayText: '❝𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌 𝐁𝐎𝐓❞',
+                                    url: 'https://Instagram.com/acil.pedia'
                                 }
                             }, {
                                 quickReplyButton: {
